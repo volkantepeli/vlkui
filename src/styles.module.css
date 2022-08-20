@@ -1,0 +1,74 @@
+.test {
+  margin: 2em;
+  padding: 0.5em;
+  border: 2px solid #000;
+  font-size: 2em;
+  text-align: center;
+}
+.primary{
+  margin-top: 20px;
+  font-size: 14px;
+  font-family:"Times New Roman", Times, serif;
+  text-align: center;
+  height: 30px;
+  width: 120px;
+  background-color: #3120E0;
+  border:thin;
+  color: white;
+  border-radius: 150px;
+  
+}
+.default{
+  background-color: #000;
+  margin-top: 20px;
+  font-size: 14px;
+  font-family:"Times New Roman", Times, serif;
+  text-align: center;
+  height: 30px;
+  width: 120px;
+  border-width: 1px;
+  border-radius: 7px;
+  color: white;
+}
+.dashed{
+  background-color: white;
+  border-color:gray;
+  border: dashed;
+  margin-top: 20px;
+  font-size: 14px;
+  font-family:"Times New Roman", Times, serif;
+  text-align: center;
+  height: 30px;
+  width: 120px;
+  border-width: 0.2px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.texty{
+  font-weight: bolder;
+  font-style: italic;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  background-color: white;
+  margin-top: 20px;
+  font-size: 14px;
+  text-align: center;
+  height: 30px;
+  width: 120px;
+  border:none;
+  border-radius: 3px;
+  color: rgb(46, 39, 39);
+}
+.link{
+  font-weight: bold;
+  background-color: white;
+  color: blue;
+  border: none;
+  text-decoration: underline;
+  margin-top: 20px;
+  font-size: 14px;
+  font-family:"Times New Roman", Times, serif;
+  text-align: center;
+  height: 30px;
+  width: 120px;
+  border-radius: 3px;
+}
